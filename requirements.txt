@@ -1,0 +1,9 @@
+streamlit
+joblib
+numpy
+scikit-learn
+pandas
+matplotlib
+seaborn
+pydantic-ai[google]
+requests
